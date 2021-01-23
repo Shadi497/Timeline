@@ -12,7 +12,8 @@ const Telement = (props) => {
         <td style={styles.p}>
           <h3 style={styles.s}>{props.d.date}</h3>
           <h3>{props.d.title}</h3>
-          <p> {props.d.description} </p>
+          <p style={styles.d}> {props.d.description} </p>
+          <h3>{props.d.location}</h3>
         </td>
       </tr>
     </table>

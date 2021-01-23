@@ -29,7 +29,7 @@ const data = [
     title: "School Graduated",
     location: "Manama, Bahrain",
     description:
-      "Graduated from Sheikh Isa bin Ali Secondry School science sector.     What a science geek I was.",
+      "Graduated from Sheikh Isa bin Ali Secondry School science sector.     What a science geek I was !",
     date: "June 2014",
     image: img3,
   },

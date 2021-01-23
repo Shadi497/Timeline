@@ -2,7 +2,7 @@ const styles = {
   m: {
     display: "flex",
     flexDirection: "column",
-    width: "550px",
+    width: "598px",
     textAlign: "left",
     marginLeft: "auto",
     marginRight: "24%",
@@ -25,6 +25,7 @@ const styles = {
 
   h1: { textAlign: "center", color: "blue", textDecoration: "underline" },
   p: { paddingLeft: "50px" },
+  d: { fontSize: "18px" },
 };
 
 export default styles;
