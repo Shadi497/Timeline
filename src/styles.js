@@ -23,7 +23,12 @@ const styles = {
     height: "150px",
   },
 
-  h1: { textAlign: "center", color: "blue", textDecoration: "underline" },
+  h1: {
+    textAlign: "center",
+    color: "blue",
+    textDecoration: "underline",
+    textTransform: "uppercase",
+  },
   p: { paddingLeft: "50px" },
   d: { fontSize: "18px" },
 };
